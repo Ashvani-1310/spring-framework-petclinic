@@ -242,4 +242,4 @@ Project Completed for m2 batch in Pune (Offline),
 Project Completed for e2 batch in Pune (Offline),!!
 Github webhook completed in Pune !
 
-completed jenkins in E1 batch
+Completed Jenkins in E1 batch
